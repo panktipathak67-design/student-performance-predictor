@@ -28,9 +28,9 @@ Linear Regression is used to find the relationship between the input features an
 
 student-performance-predictor/
 │
-├── student_predictor.py
-├── requirements.txt
-└── README.md
+├── student_predictor.py<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 ⚙️ Installation
 
@@ -58,12 +58,12 @@ The program will then display:
 📊 Example
 
 ----- STUDENT PERFORMANCE PREDICTOR -----
-Study hours per day: 6
-Attendance percentage: 85
-Assignment completion percentage: 80
-Previous exam marks: 72
-Predicted Final Marks: 76.XX
-Performance: Very Good
+Study hours per day: 6<br>
+Attendance percentage: 85<br>
+Assignment completion percentage: 80<br>
+Previous exam marks: 72<br>
+Predicted Final Marks: 76.XX<br>
+Performance: Very Good<br>
 
 📈 Model Evaluation
 
