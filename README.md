@@ -70,7 +70,7 @@ Performance: Very Good
 The model is evaluated using:
 - Mean Absolute Error (MAE)
 - R² Score
-- 
+
 These metrics help measure how accurately the model predicts student performance.
 
 🎯 Performance Categories
