@@ -26,8 +26,8 @@ Linear Regression is used to find the relationship between the input features an
 
 📂 Project Structure
 
-student-performance-predictor/
-│
+student-performance-predictor/<br>
+│<br>
 ├── student_predictor.py<br>
 ├── requirements.txt<br>
 └── README.md<br>
@@ -57,7 +57,7 @@ The program will then display:
 
 📊 Example
 
------ STUDENT PERFORMANCE PREDICTOR -----
+----- STUDENT PERFORMANCE PREDICTOR -----<br>
 Study hours per day: 6<br>
 Attendance percentage: 85<br>
 Assignment completion percentage: 80<br>
